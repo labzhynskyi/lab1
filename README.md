@@ -1,3 +1,8 @@
+# Usage
+gcc lab1.c -o lab1
+./lab1
+
+
 # lab1
 LAB1 labzhynskyi UNIX KPI КПИ ЛАБЖ ЛАБЖИНСКИЙ ЛАБА1 ЛАБ1 
 # Контрольні запитання
